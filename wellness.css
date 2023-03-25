@@ -21,8 +21,8 @@ h3 {
  color: white;
 }
 .about {
-  background-color: mistyrose;
-  width: 1000px;
+  background-color: #ddd;
+  width: 940px;
   margin: 0 auto;
   padding: 2rem;
   font-family: 'Spectral', serif;
